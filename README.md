@@ -39,6 +39,6 @@
 ![React](http://img.shields.io/badge/-React-%23FF6F00?style=flat-square&logo=react&logoColor=ffffff)
 ![Mongodb](http://img.shields.io/badge/-Mongodb-%233776AB?style=flat-square&logo=mongodb&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=nodejs)
-![Expressjs](https://img.shields.io/badge/-android-yellow?style=flat-square&logo=express)
+![Expressjs](https://img.shields.io/badge/-android-yellow?style=flat-square&logo=android)
 <br />
 <br />
